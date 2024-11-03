@@ -9,7 +9,7 @@ function About() {
             <div className="paragraph">
                 <div>
                 <video muted autoPlay loop playsInline>
-                    <source src="https://hif-greece.s3.ap-northeast-1.amazonaws.com/WEB.mp4" type="video/mp4" />
+                    <source src="https://hif-greece.s3.ap-northeast-1.amazonaws.com/intro.MOV" type="video/mp4" />
                 </video>
                 </div>
 
