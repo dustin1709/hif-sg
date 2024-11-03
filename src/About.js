@@ -15,7 +15,7 @@ function About() {
 
                 <div>
                     <p className="pb-5 pl-1 pr-1 mt-1 mb-2">
-                        Hellenic Investment Fund (HIF) Co IKE takes pride in its team of highly experienced professionals in financial investment, real estate development, construction, education, and international relations. By its strong commitment to professionalism and satisfactory client experience, our organization is structured into key divisions covering design and construction, project management, real estate leasing and management, client care and community relations development in Greece.
+                        HIF takes pride in its team of highly experienced professionals in financial investment, real estate development, construction, education, and international relations. By its strong commitment to professionalism and satisfactory client experience, our organization is structured into key divisions covering design and construction, project management, real estate leasing and management, client care and community relations development in Greece.
                     </p>
                     <p className="pb-5 pl-1 pr-1 mt-1 mb-2">
                         We also specialize in the procurement, storage, and delivery of bulk materials, we serve clients across the world. Our commitment to responsible trade ensures we consistently meet the highest standards in operational efficiency, safety, and quality throughout our supply chain.
