@@ -40,7 +40,7 @@ function Careers() {
                         <li>As a consulting firm, HIF Consulting Singapore Pte Ltd, helps HIF clients navigate the best property for Golden Visa investment for their families.</li>
                     </ul>
                 </p>
-                <h2 className="pt-5 text-xl pb-2 md:w-[250px] w-[205px]" style={{borderBottom: '5px solid #021d68'}}>Some of Hellenic Investment Fund Projects</h2>
+                <h2 className="pt-5 text-xl pb-2 md:w-[250px] w-[205px]" style={{borderBottom: '5px solid #021d68'}}>Some of Our Real Estate Projects</h2>
                 <p className="pt-3 pb-5">
                     HIF premium real estate projects, handpicked for their unbeatable locations and designed with renters in mind. Whether you're looking for easy access to public transportation, vibrant local communities, or proximity to key amenities, our properties offer unparalleled convenience. Each project is thoughtfully developed to provide an effortless rental experience, ensuring tenants enjoy both comfort and accessibility. Invest in a space where location meets lifestyle, making renting simpler, faster, and more enjoyable. Secure your future today with HIF—your gateway to prime living.
                 </p>
